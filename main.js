@@ -1,0 +1,13 @@
+// var a = prompt('a ni kiriting');
+// var p = 0;
+// p = 4*a;
+// alert(p);
+// var a = prompt('a ni kiriting')*1;
+// var p = 0;
+// p = 4*a*a;
+// alert(p);
+var a = prompt('son')*1;
+var b = prompt('kirit')*1;
+var p = 0;
+p = a+b*2;
+alert(p);
